@@ -8,3 +8,17 @@
   font-style: normal;
 }
 
+/* Text colours */
+.dark1{
+    color: rgba(28, 28, 28, 1);
+}
+.dark3{
+    color: rgba(119, 119, 119, 1);
+}
+/* Button */
+.btnPrimary{
+    background: linear-gradient(90deg,rgba(42, 123, 155, 1) 0%, rgba(189, 68, 68, 1) 0%, rgba(212, 121, 36, 1) 100%, rgba(237, 221, 83, 1) 100%);
+    padding: 18px 20px;
+    border-radius: 8px;
+    color: white;
+}
